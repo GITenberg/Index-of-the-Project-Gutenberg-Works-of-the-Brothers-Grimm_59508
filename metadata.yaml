@@ -1,0 +1,36 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-the-Brothers-Grimm_59508
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of the Brothers Grimm
+url: http://www.gutenberg.org/ebooks/59508
